@@ -1,2 +1,2 @@
-# logicaProgramacao
-Curso de Lógica de Programação da ALURA
+# logicaProgramacao1
+Curso de Lógica de Programação I da ALURA
